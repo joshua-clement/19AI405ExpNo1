@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: N.Navya Sree</h3>
-<h3>Register Number: 212223040138</h3>
+<h3>Name: Joshua Clement D</h3>
+<h3>Register Number: 212224040143</h3>
 
 
 <h3>AIM:</h3>
